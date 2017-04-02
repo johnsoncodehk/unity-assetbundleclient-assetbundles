@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 4204384700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cc4f243dfad46816317c093d9ccc7e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/Assets/TestScene.unity
+Dependencies:
+- /Users/johnson/Desktop/GitHub/AssetBundleClient/AssetBundles/OSX/material-bundle
