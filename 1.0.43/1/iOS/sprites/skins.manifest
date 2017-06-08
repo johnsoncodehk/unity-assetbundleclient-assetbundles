@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3696976898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf0229b33b55beedafe08ce6d3f31846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/LRS/AssetBundles/Sprites/Skins/13.png
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u6751\u6C11.png"
+- Assets/LRS/AssetBundles/Sprites/Skins/5.png
+- Assets/LRS/AssetBundles/Sprites/Skins/22.png
+- Assets/LRS/AssetBundles/Sprites/Skins/8.png
+- Assets/LRS/AssetBundles/Sprites/Skins/14.png
+- Assets/LRS/AssetBundles/Sprites/Skins/19.png
+- Assets/LRS/AssetBundles/Sprites/Skins/10.png
+- Assets/LRS/AssetBundles/Sprites/Skins/4.png
+- Assets/LRS/AssetBundles/Sprites/Skins/7.png
+- Assets/LRS/AssetBundles/Sprites/Skins/15.png
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u4E18\u6BD4\u7279.png"
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u5B88\u536B.png"
+- Assets/LRS/AssetBundles/Sprites/Skins/2.png
+- Assets/LRS/AssetBundles/Sprites/Skins/18.png
+- Assets/LRS/AssetBundles/Sprites/Skins/6.png
+- Assets/LRS/AssetBundles/Sprites/Skins/28.png
+- Assets/LRS/AssetBundles/Sprites/Skins/16.png
+- Assets/LRS/AssetBundles/Sprites/Skins/26.png
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u72FC\u4EBA.png"
+- Assets/LRS/AssetBundles/Sprites/Skins/17.png
+- Assets/LRS/AssetBundles/Sprites/Skins/1.png
+- Assets/LRS/AssetBundles/Sprites/Skins/12.png
+- Assets/LRS/AssetBundles/Sprites/Skins/29.png
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u730E\u4EBA.png"
+- Assets/LRS/AssetBundles/Sprites/Skins/30.png
+- Assets/LRS/AssetBundles/Sprites/Skins/3.png
+- Assets/LRS/AssetBundles/Sprites/Skins/9.png
+- Assets/LRS/AssetBundles/Sprites/Skins/21.png
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u9884\u8A00\u5BB6.png"
+- Assets/LRS/AssetBundles/Sprites/Skins/20.png
+- Assets/LRS/AssetBundles/Sprites/Skins/25.png
+- "Assets/LRS/AssetBundles/Sprites/Skins/\u5973\u5DEB.png"
+- Assets/LRS/AssetBundles/Sprites/Skins/31.png
+- Assets/LRS/AssetBundles/Sprites/Skins/24.png
+- Assets/LRS/AssetBundles/Sprites/Skins/27.png
+- Assets/LRS/AssetBundles/Sprites/Skins/11.png
+- Assets/LRS/AssetBundles/Sprites/Skins/23.png
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 721661736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbdb125f2a6cc24f054be5f0736bf920
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/LRS/AssetBundles/Sprites/Card/\u72FC\u4EBA.png"
+- "Assets/LRS/AssetBundles/Sprites/Card/\u730E\u4EBA.png"
+- "Assets/LRS/AssetBundles/Sprites/Card/\u5B88\u536B.png"
+- "Assets/LRS/AssetBundles/Sprites/Card/\u6751\u6C11.png"
+- "Assets/LRS/AssetBundles/Sprites/Card/\u4E18\u6BD4\u7279.png"
+- "Assets/LRS/AssetBundles/Sprites/Card/\u5973\u5DEB.png"
+- "Assets/LRS/AssetBundles/Sprites/Card/\u9884\u8A00\u5BB6.png"
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3122586249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be184ce6fee4960a8726dd18c13e11ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/LRS/AssetBundles/Texts/Language/zh-Hant.txt
+- Assets/LRS/AssetBundles/Texts/Language/zh-Hans.txt
+- Assets/LRS/AssetBundles/Texts/Language/en.txt
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3746809259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de44e75dcefa57a639162064af2b19f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/LRS/AssetBundles/Sprites/Items/10.png
+- Assets/LRS/AssetBundles/Sprites/Items/5.png
+- Assets/LRS/AssetBundles/Sprites/Items/1.png
+- Assets/LRS/AssetBundles/Sprites/Items/15.png
+- Assets/LRS/AssetBundles/Sprites/Items/7.png
+- Assets/LRS/AssetBundles/Sprites/Items/12.png
+- Assets/LRS/AssetBundles/Sprites/Items/9.png
+- Assets/LRS/AssetBundles/Sprites/Items/8.png
+- Assets/LRS/AssetBundles/Sprites/Items/14.png
+- Assets/LRS/AssetBundles/Sprites/Items/11.png
+- Assets/LRS/AssetBundles/Sprites/Items/4.png
+- Assets/LRS/AssetBundles/Sprites/Items/3.png
+- Assets/LRS/AssetBundles/Sprites/Items/13.png
+- Assets/LRS/AssetBundles/Sprites/Items/2.png
+- Assets/LRS/AssetBundles/Sprites/Items/6.png
+Dependencies: []
